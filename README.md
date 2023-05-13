@@ -29,3 +29,6 @@ An algorithm has been developed in the `update()` method to selectively update t
 - **Shopping list feature**: A button on the recipe to add ingredients to a list.
 - **Weekly meal planning feature**: Assign recipes to the next seven days and show them on a weekly calendar.
 - **Nutrition data**: Get nutrition information for each ingredient from the spoonacular API (https://spoonacular.com/food-api) and calculate the total calories of the recipe.
+
+### Demonstration:
+https://forkify-rickyltwong.netlify.app/
